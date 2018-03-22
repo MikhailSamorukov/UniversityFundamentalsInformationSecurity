@@ -1,0 +1,5 @@
+c:\users\михаил\documents\visual studio 2017\Projects\UniversityFundamentalsInformationSecurity\Encryption\bin\Debug\Encryption.dll
+c:\users\михаил\documents\visual studio 2017\Projects\UniversityFundamentalsInformationSecurity\Encryption\bin\Debug\Encryption.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\UniversityFundamentalsInformationSecurity\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2017\Projects\UniversityFundamentalsInformationSecurity\Encryption\obj\Debug\Encryption.dll
+c:\users\михаил\documents\visual studio 2017\Projects\UniversityFundamentalsInformationSecurity\Encryption\obj\Debug\Encryption.pdb
